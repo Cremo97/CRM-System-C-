@@ -1,0 +1,76 @@
+====== CRM SYSTEM DATA ======
+Total Customers: 3
+=============================
+
+=== CUSTOMER 1 ===
+Customer ID:	1
+Name:		Giuseppe Verdi
+Email:		giuseppe.verdi@email.com
+Phone:		3331111111
+Interactions:	3
+
+--- INTERACTIONS ---
+Interaction 1:
+  Type:		Appointment
+  ID:		1
+  Date:		10/08/2025
+  Description:	Initial consultation
+  App. Type:	Consultation
+  Status:	Scheduled
+
+Interaction 2:
+  Type:		Appointment
+  ID:		2
+  Date:		15/08/2025
+  Description:	Follow-up meeting
+  App. Type:	Follow-up
+  Status:	Completed
+
+Interaction 3:
+  Type:		Contract
+  ID:		3
+  Date:		20/08/2025
+  Description:	Home insurance contract
+  Contract #:	HOME-20082025-003
+  Policy Type:	Home
+  Annual Premium:	EUR 800
+  Expires:	20/08/2026
+
+========================
+
+=== CUSTOMER 2 ===
+Customer ID:	2
+Name:		Anna Bianchi
+Email:		anna.bianchi@email.com
+Phone:		3332222222
+Interactions:	2
+
+--- INTERACTIONS ---
+Interaction 1:
+  Type:		Appointment
+  ID:		4
+  Date:		12/08/2025
+  Description:	Auto insurance meeting
+  App. Type:	Offering
+  Status:	Scheduled
+
+Interaction 2:
+  Type:		Contract
+  ID:		5
+  Date:		25/08/2025
+  Description:	Auto insurance contract
+  Contract #:	AUTO-25082025-005
+  Policy Type:	Auto
+  Annual Premium:	EUR 1200
+  Expires:	25/08/2026
+
+========================
+
+=== CUSTOMER 3 ===
+Customer ID:	3
+Name:		Luca Neri
+Email:		luca.neri@email.com
+Phone:		3333333333
+Interactions:	0
+========================
+

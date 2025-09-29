@@ -1,0 +1,7 @@
+CustomerID,FirstName,LastName,Email,PhoneNumber,InteractionType,InteractionID,Date,Description,AppointmentType,AppointmentStatus,ContractNumber,PolicyType,AnnualPremium,ExpirationDate
+1,Giuseppe,Verdi,giuseppe.verdi@email.com,3331111111,Appointment,1,10/08/2025,Initial consultation,Consultation,Scheduled,,,,
+1,Giuseppe,Verdi,giuseppe.verdi@email.com,3331111111,Appointment,2,15/08/2025,Follow-up meeting,Follow-up,Completed,,,,
+1,Giuseppe,Verdi,giuseppe.verdi@email.com,3331111111,Contract,3,20/08/2025,Home insurance contract,,,HOME-20082025-003,Home,800.000000,20/08/2026
+2,Anna,Bianchi,anna.bianchi@email.com,3332222222,Appointment,4,12/08/2025,Auto insurance meeting,Offering,Scheduled,,,,
+2,Anna,Bianchi,anna.bianchi@email.com,3332222222,Contract,5,25/08/2025,Auto insurance contract,,,AUTO-25082025-005,Auto,1200.000000,25/08/2026
+3,Luca,Neri,luca.neri@email.com,3333333333,,,,,,,,,,
